@@ -51,7 +51,7 @@ class _InitialPageState extends State<InitialPage> {
                           'Computación',
                           style: TextStyle(
                             fontSize: 30.0,
-                            color: purpleComplementaryColor,
+                            color: purpleMainColor,
                           ),
                         ),
                       ),
